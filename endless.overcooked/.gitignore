@@ -1,5 +1,6 @@
 .settings
-.vscode
+.vscode/
+target/
 
 *.classpath
 *.factorypaht
