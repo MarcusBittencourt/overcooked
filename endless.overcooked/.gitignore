@@ -2,8 +2,9 @@
 .vscode/
 target/
 
+*.gitignore
 *.classpath
-*.factorypaht
+*.factorypath
 # Compiled class file
 *.class
 
